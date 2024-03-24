@@ -1,7 +1,7 @@
 # Spark2024-writeup
 
-## Detailed writeup for the pwn challenges with many paths to solve the challenges 
-## Detailed writeup and explanation for the forensics challenges 
+- Detailed writeup for the pwn challenges with many paths to solve the challenges 
+- Detailed writeup and explanation for the forensics challenges 
 
 
 # Contact for Further Details:
